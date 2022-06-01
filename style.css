@@ -1,0 +1,17 @@
+/*
+Theme Name:   Twenty Twenty Child
+Theme URI:    https://github.com/Ahamandine/twentytwenty-child-theme
+Description:  Twenty Twenty Child Theme
+Author:       Amandine
+Author URI:   https://github.com/Ahamandine/
+Template:     twentytwenty
+Version:      1.0.0
+*/
+
+/* put your css code here */
+
+body
+{
+    background-color: lightcoral;
+    font-family:'Times New Roman', Times, serif;
+}
